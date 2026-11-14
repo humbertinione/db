@@ -1,0 +1,12 @@
+﻿{
+    "version":  "1.0.0",
+    "file":  "PowerBot.nds",
+    "console":  "nds",
+    "category":  "homebrew",
+    "name":  "PowerBot",
+    "description":  "Port de acción retro estilo 8-bit con mecánicas clásicas para Nintendo DS.",
+    "downloads":  {
+                      "github":  "https://github.com/humbertinione/nds-games/releases/download/v1.0.0/PowerBot.nds"
+                  },
+    "author":  "MetalCubeBit"
+}
