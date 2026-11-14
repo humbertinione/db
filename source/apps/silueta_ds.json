@@ -1,0 +1,12 @@
+﻿{
+    "version":  "1.0.0",
+    "file":  "silueta_ds.nds",
+    "console":  "nds",
+    "category":  "homebrew",
+    "name":  "Silueta DS",
+    "description":  "Juego de acción y combate de siluetas desarrollado de forma independiente para Nintendo DS.",
+    "downloads":  {
+                      "github":  "https://github.com/humbertinione/nds-games/releases/download/v1.0.0/silueta_ds.nds"
+                  },
+    "author":  "MetalCubeBit"
+}
